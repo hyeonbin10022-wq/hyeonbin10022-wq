@@ -16,7 +16,6 @@
   - 위성지도 위 **2D/3D 시각화**, 벤치 단면 프로파일
 - **기술**: JavaScript · Vite · Three.js · Canvas · Supabase
 
-[스크린샷 또는 GIF 넣기]
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
